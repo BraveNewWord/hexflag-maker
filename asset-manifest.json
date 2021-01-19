@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hexflag-maker/static/css/main.d85d1efd.chunk.css",
+    "main.css": "/hexflag-maker/static/css/main.48f9f849.chunk.css",
     "main.js": "/hexflag-maker/static/js/main.8d0e05cd.chunk.js",
     "main.js.map": "/hexflag-maker/static/js/main.8d0e05cd.chunk.js.map",
     "runtime-main.js": "/hexflag-maker/static/js/runtime-main.75d27217.js",
@@ -10,14 +10,14 @@
     "static/js/2.f0fe5d3c.chunk.js.map": "/hexflag-maker/static/js/2.f0fe5d3c.chunk.js.map",
     "index.html": "/hexflag-maker/index.html",
     "static/css/2.ae9f1eb3.chunk.css.map": "/hexflag-maker/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.d85d1efd.chunk.css.map": "/hexflag-maker/static/css/main.d85d1efd.chunk.css.map",
+    "static/css/main.48f9f849.chunk.css.map": "/hexflag-maker/static/css/main.48f9f849.chunk.css.map",
     "static/js/2.f0fe5d3c.chunk.js.LICENSE.txt": "/hexflag-maker/static/js/2.f0fe5d3c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.75d27217.js",
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.f0fe5d3c.chunk.js",
-    "static/css/main.d85d1efd.chunk.css",
+    "static/css/main.48f9f849.chunk.css",
     "static/js/main.8d0e05cd.chunk.js"
   ]
 }
