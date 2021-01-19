@@ -1,23 +1,13 @@
-import logo from './logo.svg';
+import React, { useState } from 'react'
+import NameForm from './NameForm.js'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>HEXFLAG MAKER</h1>
+      <p>Type in a word and get the hexflag of it (click submit to get an image)</p>
+      <NameForm />
     </div>
   );
 }
